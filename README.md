@@ -1,7 +1,5 @@
 # API - Online Libraries
 
-API Desenvolvida durante o Curso de Node.js: API REST com Express e MongoDB da Alura
-
 Esse projeto foi desenvolvido usando as seguintes tecnologias:
 
 - [NodeJS](https://nodejs.org/pt-br/)<br />
